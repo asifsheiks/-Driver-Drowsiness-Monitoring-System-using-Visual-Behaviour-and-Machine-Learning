@@ -1,0 +1,2 @@
+# -Driver-Drowsiness-Monitoring-System-using-Visual-Behaviour-and-Machine-Learning
+This project presents a low-cost, real-time driver drowsiness detection system using webcam video, facial landmarks, adaptive thresholding, and offline machine learning. It accurately detects fatigue by monitoring eye movement, blink patterns, and head posture, offering non-intrusive, reliable monitoring in various environmental conditions.
